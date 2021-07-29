@@ -1,0 +1,46 @@
+.body{
+    background-image: url("./assets/backgroundKast.png");
+};
+
+.wrapper {
+    padding:5px;
+    margin: 10px;
+    background-color:antiquewhite;
+
+};
+
+.nav{
+    position:fixed;
+    top:0;
+    right: 0;
+    margin: 25px;
+    height:50px
+    background-color: lavenderblush;
+
+}
+
+#image-2{
+    display: inline-block;
+    border:0;
+    margin-bottom: 30px;
+    width: 50%;
+    position: relative;
+};
+
+.welcomeSec{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+};
+
+#openKastButton{
+    background-color: transparent;
+    font-family: sans-serif;
+    text-align: center;
+    position:fixed;
+    float: right;
+    border-style: 5px solid black
+};
+
+
+    
